@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Requirements](#requirements-)
-3. [Workshop Content](#workshop-content-)
-4. [Contact](#contact-)
+1. [Introduction](#introduction-dart)
+2. [Requirements](#requirements-books)
+3. [Workshop Content](#workshop-content-bulb)
+4. [Contact](#contact-telephone_receiver)
 
 ## Introduction :dart:
 
