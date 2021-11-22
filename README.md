@@ -23,7 +23,7 @@ The workshop is divided into 3 parts:
 - **Part 2**: Genetic Algorithm Development and Optimization
 - **Part 3**: Genetic Algorithm Implementation in different A.I. projects
 
-**You will find the content of all these parts in the pdf [here](insert_pdf_path_here)**
+**You will find the content of all these parts in the pdf [here](https://github.com/Mitix-EPI/WorkShop-Genetic-Algorithm/blob/master/Workshop-Genetic-Algorithm.pdf)**
 
 ## Contact :telephone_receiver:
 
